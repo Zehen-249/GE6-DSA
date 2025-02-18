@@ -1,0 +1,3 @@
+class CircularQueue:
+    pass
+
